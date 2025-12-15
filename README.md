@@ -456,8 +456,6 @@ The library uses:
 
 ---
 
----
-
 ## 🐛 Troubleshooting
 
 ### Videos not playing
@@ -521,9 +519,3 @@ SOFTWARE.
 ```
 
 ---
-
-
-
----
-
-**Made with ❤️ for the Android community**
