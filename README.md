@@ -61,7 +61,7 @@ dependencyResolutionManagement {
 
 ```kotlin
 dependencies {
-    implementation("com.github.yourusername:media-scroller:1.0.0")
+	        implementation("com.github.Excelsior-Technologies-Community:MediaScroller:1.0.0")
 }
 ```
 
